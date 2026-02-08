@@ -22,6 +22,41 @@ Key Metrics:
 
 ---
 
+## 🧠 What We Do
+
+At 9series, we go beyond traditional software development.  
+We engineer **Agentic AI Systems** and **AI-driven automation solutions** that make technology proactive, not reactive.
+
+### 🤖 Agentic AI Systems
+We design AI agents that can **plan, decide, and execute tasks autonomously**, helping organizations reduce manual effort and improve operational efficiency.
+
+**Our agentic capabilities include:**
+- Multi-step task automation using AI agents  
+- LLM-powered decision engines  
+- Workflow orchestration with AI reasoning  
+- Intelligent document processing agents  
+- Compliance, support, and operations agents  
+
+These systems don’t just respond — they **take initiative** within defined guardrails.
+
+---
+
+## ⚡ AI Automation for Everyday Productivity
+
+We help businesses and professionals integrate AI into **daily activities** to save time and move faster.
+
+### 🧩 Examples of AI-Powered Daily Automation
+- 📧 Smart email triage and automated responses  
+- 📄 Document summarization and data extraction  
+- 📊 Auto-generated reports and dashboards  
+- 🗂 Task prioritization and workflow optimization  
+- 🤝 AI copilots for support, operations, and knowledge work  
+- 🔍 Intelligent search across internal knowledge bases  
+
+Our goal is simple:  
+> **Reduce repetitive work. Increase human focus on high-value decisions.**
+
+---
 ## 🧠 Core Technical Expertise
 
 ### 📱 Custom Software & App Development
@@ -31,10 +66,10 @@ Key Metrics:
 - NFT, Open Source Customization, Database Systems
 
 ### 🤖 AI & Machine Learning
-- Machine Learning & Deep Learning Models  
-- Natural Language Processing  
-- Image & Text Analysis  
-- Predictive Analytics & Data Visualization
+- Large Language Model (LLM) integrations  
+- Agentic workflow design  
+- NLP, text intelligence, and embeddings  
+- Predictive analytics and decision systems 
 
 ### ⚙️ DevOps, CI/CD & Testing
 - Automated Testing (Selenium, Appium, BDD)  
@@ -54,10 +89,10 @@ Key Metrics:
 
 Here are some representative technologies commonly used across our projects:
 
+- **AI/ML:** LLMs, NLP, Vector Databases, ML Frameworks, TensorFlow, Neural Networks
 - **Languages:** Python, JavaScript, PHP, Swift, Kotlin  
 - **Frameworks:** React, Angular, Flutter, Django, Node.js  
 - **Cloud & Infra:** AWS, Azure, GCP, Docker, Kubernetes  
-- **AI/ML:** TensorFlow, NLP, Neural Networks  
 - **Testing:** Selenium WebDriver, Appium, Jest, Cypress
 
 ---
@@ -68,6 +103,10 @@ _(Tip: Add links to actual GitHub repos once published)_
 
 | Project | Focus |
 |---------|-------|
+| **AI Workflow Agent** | Multi-step task execution using LLM reasoning |
+| **Enterprise Knowledge Copilot** | AI assistant for internal documentation & search |
+| **Automated Compliance Analyzer** | AI agents extracting and validating regulatory data |
+| **Productivity Automation Suite** | AI tools for email, reporting, and task automation |
 | **Enterprise AI Engine** | Predictive analytics & automation |
 | **Cross-Platform Mobile Suite** | iOS & Android for B2C apps |
 | **Cloud-Native Backend APIs** | Scalable REST & GraphQL services |
@@ -77,21 +116,31 @@ _(Tip: Add links to actual GitHub repos once published)_
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌍 Our Mission
 
-- 📧 Email: sales@9series.com  
-- 🌍 Website: https://9series.com  
-- 📍 Offices: Seattle, WA (USA) & Ahmedabad, Gujarat (India)
+We believe AI should:
+✔ Eliminate repetitive work  
+✔ Assist decision-making  
+✔ Improve speed and accuracy  
+✔ Augment humans — not replace them  
+
+We build systems where **AI becomes your digital teammate**.
 
 ---
 
-## 📌 GitHub Activity
+## 🌐 Connect & Collaborate
 
-✨ I share:
-- Open-source tools for AI and mobile development  
-- Automation and testing frameworks  
-- Cloud architecture examples  
-- Real engineering case studies
+If you're exploring:
+- AI agents for your business  
+- Workflow automation  
+- AI copilots for teams  
+- LLM-powered applications  
+
+We’d love to help design and build your solution.
+
+🌐 Website: https://9series.com  
+📧 Contact: sales@9series.com
+- 📍 Offices: Seattle, WA (USA) & Ahmedabad, Gujarat (India)
 
 ---
 
