@@ -5,8 +5,8 @@
 
 ## 👋 Hello, I'm 9series Engineer
 
-**Engineering digital transformation, AI-powered solutions, and high-impact software products.**  
-Passionate about delivering scalable, reliable, and modern software — from mobile apps to cloud-native systems.
+**Building intelligent systems that work for humans — not the other way around.**  
+We design **AI-powered, agent-driven solutions** that automate workflows, enhance productivity, and transform how businesses and individuals operate every day.
 
 ---
 
