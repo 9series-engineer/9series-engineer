@@ -12,13 +12,13 @@ Passionate about delivering scalable, reliable, and modern software — from mob
 
 ## 🚀 About 9series
 
-**9series** is a global IT services and digital engineering organization with over 10+ years of experience in building solutions that transform businesses. We specialize in bespoke mobile and web applications, machine learning & AI, cloud services, quality engineering, and custom software development for clients worldwide. :contentReference[oaicite:0]{index=0}
+**9series** is a global IT services and digital engineering organization with over 10+ years of experience in building solutions that transform businesses. We specialize in bespoke mobile and web applications, machine learning & AI, cloud services, quality engineering, and custom software development for clients worldwide.
 
 Key Metrics:
 - 🌍 250+ clients served across industries  
 - 📱 120+ mobile applications developed  
 - 👩‍💻 100+ engineering team members  
-- 🧠 AI-first digital engineering focus :contentReference[oaicite:1]{index=1}
+- 🧠 AI-first digital engineering focus
 
 ---
 
@@ -28,25 +28,25 @@ Key Metrics:
 - Mobile App Development (Android, iOS, Cross-Platform)  
 - Web Development & UI/UX Design  
 - Cloud & Backend Solutions  
-- NFT, Open Source Customization, Database Systems :contentReference[oaicite:2]{index=2}
+- NFT, Open Source Customization, Database Systems
 
 ### 🤖 AI & Machine Learning
 - Machine Learning & Deep Learning Models  
 - Natural Language Processing  
 - Image & Text Analysis  
-- Predictive Analytics & Data Visualization :contentReference[oaicite:3]{index=3}
+- Predictive Analytics & Data Visualization
 
 ### ⚙️ DevOps, CI/CD & Testing
 - Automated Testing (Selenium, Appium, BDD)  
 - Manual QA & Functional Testing  
 - CI/CD Pipelines, Jenkins Integration  
-- Agile Software Delivery Practices :contentReference[oaicite:4]{index=4}
+- Agile Software Delivery Practices
 
 ### ☁️ Consulting & Digital Strategy
 - Technology Strategy & Architecture  
 - Business Transformation Consulting  
 - Digital Marketing & Analytics  
-- Resource Augmentation & Documentation :contentReference[oaicite:5]{index=5}
+- Resource Augmentation & Documentation
 
 ---
 
@@ -81,7 +81,7 @@ _(Tip: Add links to actual GitHub repos once published)_
 
 - 📧 Email: sales@9series.com  
 - 🌍 Website: https://9series.com  
-- 📍 Offices: Seattle, WA (USA) & Ahmedabad, Gujarat (India) :contentReference[oaicite:6]{index=6}
+- 📍 Offices: Seattle, WA (USA) & Ahmedabad, Gujarat (India)
 
 ---
 
