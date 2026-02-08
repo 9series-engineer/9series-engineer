@@ -119,10 +119,10 @@ _(Tip: Add links to actual GitHub repos once published)_
 ## 🌍 Our Mission
 
 We believe AI should:
-✔ Eliminate repetitive work  
-✔ Assist decision-making  
-✔ Improve speed and accuracy  
-✔ Augment humans — not replace them  
+✔ Eliminate repetitive work
+✔ Assist decision-making
+✔ Improve speed and accuracy
+✔ Augment humans — not replace them
 
 We build systems where **AI becomes your digital teammate**.
 
