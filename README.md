@@ -100,6 +100,9 @@ Here are some representative technologies commonly used across our projects:
 - **Cloud & Infra:** AWS, Azure, GCP, Docker, Kubernetes  
 - **Testing:** Selenium WebDriver, Appium, Jest, Cypress
 
+  <img width="1001" height="565" alt="Screenshot 2026-02-09 at 4 23 28 PM" src="https://github.com/user-attachments/assets/4ac4336c-df40-4c40-ac34-ddc861d3c9ec" />
+
+
 ---
 
 ## Projects
