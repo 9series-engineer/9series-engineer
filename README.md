@@ -3,31 +3,31 @@
     Source: 9series official website and public info
 -->
 
-## 👋 Hello, I'm 9series Engineer
+## Hello, I'm 9series Engineer
 
 **Building intelligent systems that work for humans — not the other way around.**  
 We design **AI-powered, agent-driven solutions** that automate workflows, enhance productivity, and transform how businesses and individuals operate every day.
 
 ---
 
-## 🚀 About 9series
+## About 9series
 
 **9series** is a global IT services and digital engineering organization with over 10+ years of experience in building solutions that transform businesses. We specialize in bespoke mobile and web applications, machine learning & AI, cloud services, quality engineering, and custom software development for clients worldwide.
 
 Key Metrics:
-- 🌍 250+ clients served across industries  
-- 📱 120+ mobile applications developed  
-- 👩‍💻 100+ engineering team members  
-- 🧠 AI-first digital engineering focus
+- 250+ clients served across industries  
+- 120+ mobile applications developed  
+- 100+ engineering team members  
+- AI-first digital engineering focus
 
 ---
 
-## 🧠 What We Do
+## What We Do
 
 At 9series, we go beyond traditional software development.  
 We engineer **Agentic AI Systems** and **AI-driven automation solutions** that make technology proactive, not reactive.
 
-### 🤖 Agentic AI Systems
+### Agentic AI Systems
 We design AI agents that can **plan, decide, and execute tasks autonomously**, helping organizations reduce manual effort and improve operational efficiency.
 
 **Our agentic capabilities include:**
@@ -41,43 +41,43 @@ These systems don’t just respond — they **take initiative** within defined g
 
 ---
 
-## ⚡ AI Automation for Everyday Productivity
+## AI Automation for Everyday Productivity
 
 We help businesses and professionals integrate AI into **daily activities** to save time and move faster.
 
-### 🧩 Examples of AI-Powered Daily Automation
-- 📧 Smart email triage and automated responses  
-- 📄 Document summarization and data extraction  
-- 📊 Auto-generated reports and dashboards  
-- 🗂 Task prioritization and workflow optimization  
-- 🤝 AI copilots for support, operations, and knowledge work  
-- 🔍 Intelligent search across internal knowledge bases  
+### Examples of AI-Powered Daily Automation
+- Smart email triage and automated responses  
+- Document summarization and data extraction  
+- Auto-generated reports and dashboards  
+- Task prioritization and workflow optimization  
+- AI copilots for support, operations, and knowledge work  
+- Intelligent search across internal knowledge bases  
 
 Our goal is simple:  
 > **Reduce repetitive work. Increase human focus on high-value decisions.**
 
 ---
-## 🧠 Core Technical Expertise
+## Core Technical Expertise
 
-### 📱 Custom Software & App Development
+### Custom Software & App Development
 - Mobile App Development (Android, iOS, Cross-Platform)  
 - Web Development & UI/UX Design  
 - Cloud & Backend Solutions  
 - NFT, Open Source Customization, Database Systems
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 - Large Language Model (LLM) integrations  
 - Agentic workflow design  
 - NLP, text intelligence, and embeddings  
 - Predictive analytics and decision systems 
 
-### ⚙️ DevOps, CI/CD & Testing
+### DevOps, CI/CD & Testing
 - Automated Testing (Selenium, Appium, BDD)  
 - Manual QA & Functional Testing  
 - CI/CD Pipelines, Jenkins Integration  
 - Agile Software Delivery Practices
 
-### ☁️ Consulting & Digital Strategy
+### Consulting & Digital Strategy
 - Technology Strategy & Architecture  
 - Business Transformation Consulting  
 - Digital Marketing & Analytics  
@@ -85,7 +85,7 @@ Our goal is simple:
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 Here are some representative technologies commonly used across our projects:
 
@@ -97,7 +97,7 @@ Here are some representative technologies commonly used across our projects:
 
 ---
 
-## 📂 Noteworthy Projects
+## Noteworthy Projects
 
 _(Tip: Add links to actual GitHub repos once published)_
 
@@ -116,7 +116,7 @@ _(Tip: Add links to actual GitHub repos once published)_
 
 ---
 
-## 🌍 Our Mission
+## Our Mission
 
 We believe AI should:
 ✔ Eliminate repetitive work
@@ -128,7 +128,7 @@ We build systems where **AI becomes your digital teammate**.
 
 ---
 
-## 🌐 Connect & Collaborate
+## Connect & Collaborate
 
 If you're exploring:
 - AI agents for your business  
@@ -138,13 +138,13 @@ If you're exploring:
 
 We’d love to help design and build your solution.
 
-🌐 Website: https://9series.com  
-📧 Contact: sales@9series.com
-- 📍 Offices: Seattle, WA (USA) & Ahmedabad, Gujarat (India)
+**Website**: https://9series.com  
+**Contact**: sales@9series.com
+- **Offices**: Seattle, WA (USA) & Ahmedabad, Gujarat (India)
 
 ---
 
-## 🙌 Let’s Build Something Great
+## Let’s Build Something Great
 
 Whether you’re exploring AI solutions, custom applications, or streamlined engineering workflows — let’s connect and innovate.
 
